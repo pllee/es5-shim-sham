@@ -1,1 +1,1 @@
-packge es5 shim and sham together
+Combine the latest of es5-shim and es5-sham so they can be included and built with tools like browserify.  This is as simple as a repository can be. Show your love by starring [es5-shim](https://github.com/kriskowal/es5-shim) and [browserify](https://github.com/substack/node-browserify) 
