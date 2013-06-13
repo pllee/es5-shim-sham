@@ -1,0 +1,14 @@
+{
+  "author": "Patrick Lee <pllee.github@gmail.com>",
+  "name": "es5-shim-sham",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pllee/es5-shim-sham.git"
+  },
+  "version": "0.0.0",
+  "description": "packge es5 shim and sham together",
+  "main": "index.js",
+  "dependencies": {
+    "es5-shim": "*"
+  }
+}
