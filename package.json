@@ -5,7 +5,7 @@
     "type": "git",
     "url": "git://github.com/pllee/es5-shim-sham.git"
   },
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "packge es5 shim and sham together",
   "main": "index.js",
   "dependencies": {
